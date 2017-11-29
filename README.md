@@ -5,3 +5,15 @@ This Gobang game is mainly based on Minmax Theorem, Alpha-Beta Pruning and the b
 The code in wirten in Python and there are two modes of this game, normal and hard
 
 [中文版](https://github.com/leonidas141/Gobang-minmax/blob/master/README_zh-cn.md)
+
+## how to use
+
+``` shell
+git clone https://github.com/leonidas141/Gobang-minmax/
+cd Gobang-minmax/
+python main.py
+```
+for higher difficulty, please use:
+```
+python main.py hard
+```
